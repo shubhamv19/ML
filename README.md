@@ -20,8 +20,8 @@
 * overs -> Total overs bowled at that instance
 * runs_last_5 -> Total runs scored in last 5 overs
 * wickets_last_5 -> Total wickets that fell in last 5 overs
-* striker -> max(runs scored by striker, runs scored by non-striker)
-* non-striker -> min(runs scored by striker, runs scored by non-striker)
+* striker -> max score by striker -- representing his caliber 
+* non-striker -> max score by non-striker -- representing his caliber 
 * total -> Total runs scored by batting team after first innings
 
 # Prediction Algorithm and Accuracy
